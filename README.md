@@ -7,10 +7,7 @@ CSS file so it can be easier to understand.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
+Horiseon Refactor Website
 ![Horiseon Refactor Website](./starter%20code/assets/images/Horiseon%20Refactored%20Website.png)
 
 ## Credits
