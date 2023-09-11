@@ -7,7 +7,6 @@ CSS file so it can be easier to understand.
 
 ## Usage
 
-Horiseon Refactor Website
 ![Horiseon Refactor Website](./starter%20code/assets/images/Horiseon%20Refactored%20Website.png)
 
 ## Credits
